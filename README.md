@@ -86,13 +86,11 @@ RETURN Min & ":" & FORMAT(Seg, "00")
 
 ## 🖼️ Capturas
 
-> Sube tus capturas a una carpeta `img/` y enlázalas aquí:
+### Análisis musical
+<img width="1041" alt="Página 1 · Análisis musical" src="pagina1_analisis_musical.png" />
 
-```
-![Análisis musical] <img width="1041" height="700" alt="image" src="https://github.com/user-attachments/assets/636a4574-7785-4f88-9cd6-e3a542b98463" />
-
-![Análisis de negocio]<img width="1040" height="702" alt="image" src="https://github.com/user-attachments/assets/3484e4e5-b331-4ad7-ba7b-00aac4f67e66" />
-```
+### Análisis de negocio
+<img width="1040" alt="Página 2 · Análisis de negocio" src="pagina2_analisis_negocio.png" />
 
 ---
 
